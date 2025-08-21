@@ -1,0 +1,7 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "npmScope": "nxmfe",
+  "affected": { "defaultBase": "main" },
+  "targetDefaults": { "build": { "cache": true } },
+  "workspaceLayout": { "appsDir": "apps", "libsDir": "libs" }
+}
