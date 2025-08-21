@@ -11,3 +11,4 @@ coverage/
 !.vscode/extensions.json
 *.log
 **/angular.cache
+.nx/
