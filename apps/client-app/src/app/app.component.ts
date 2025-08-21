@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   template: `
     <h1>Client App Shell</h1>
     <nav>
-      <a routerLink="" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }"></a>
+      <a routerLink="" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
     </nav>
     <router-outlet />
   `,
